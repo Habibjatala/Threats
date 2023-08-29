@@ -1,0 +1,4 @@
+No obvious vulnerability detected with test URL: http://example.com
+No obvious vulnerability detected with test URL: http://localhost
+No obvious vulnerability detected with test URL: http://127.0.0.1
+No obvious vulnerability detected with test URL: http://internal-server-ip

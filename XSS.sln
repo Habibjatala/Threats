@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XSS", "XSS\XSS.csproj", "{0576A671-4AF0-4AFB-920C-7A1A2532A77F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0576A671-4AF0-4AFB-920C-7A1A2532A77F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0576A671-4AF0-4AFB-920C-7A1A2532A77F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0576A671-4AF0-4AFB-920C-7A1A2532A77F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0576A671-4AF0-4AFB-920C-7A1A2532A77F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7022A51A-E8D0-4BCD-A721-8313E9CB3707}
+	EndGlobalSection
+EndGlobal

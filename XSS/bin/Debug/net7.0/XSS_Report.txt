@@ -1,0 +1,4 @@
+No obvious vulnerability detected with payload: <script>alert('XSS')</script>
+No obvious vulnerability detected with payload: <img src=x onerror=alert('XSS')>
+No obvious vulnerability detected with payload in context: <img src="x" onerror="alert('XSS')">
+No obvious vulnerability detected with payload in context: <a href="javascript:alert('XSS')">
